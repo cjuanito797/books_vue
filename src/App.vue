@@ -55,4 +55,8 @@ export default {
 
 <style lang="scss">
 @import '../node_modules/bulma';
+.footer{
+  margin-top: 30px;
+  padding-top: 100px;
+}
 </style>
